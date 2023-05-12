@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+}
+.heading{
+    
+    color: aqua;
+    font-size: 50px;
+}
+.count{
+    font-size: 70px;
+    font-weight: bold;
+    
+}
+.button1{
+    margin: 20px;
+    font-size: 30px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+    border-color: blueviolet;
+}
+.button2{
+    font-size: 30px;
+    background-color:blueviolet;
+    color: white;
+    border-radius: 10px;
+    border-color: blueviolet;
+}
